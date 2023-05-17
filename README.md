@@ -2,7 +2,7 @@
 <h1 align='center'>
   Yonatan Lourie
 </h1>
-![datasaurus](1datasaurus.png))
+![datasaurus](http://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLcB/s1600/1datasaurus.png)
 
 
 Hey there! I'm Yonatan, a grad student at Tel Aviv University (TAU), specializing in Statistics and Data Science. 
