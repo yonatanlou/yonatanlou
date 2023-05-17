@@ -2,7 +2,7 @@
 <h1 align='center'>
   Yonatan Lourie
 </h1>
-![datasaurus](http://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLcB/s1600/1datasaurus.png)
+
 
 
 Hey there! I'm Yonatan, a grad student at Tel Aviv University (TAU), specializing in Statistics and Data Science. 
@@ -23,6 +23,8 @@ Projects:
 5. **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
 
 [For more projects](https://github.com/yonatanlou/study_projects_bsc)
+
+![datasaurus](1datasaurus.png)
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/yonatanlourie/">
