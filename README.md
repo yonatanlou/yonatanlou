@@ -2,7 +2,7 @@
 <h1 align='center'>
   Yonatan Lourie
 </h1>
-![datasaurus](https://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLc/s1600/1datasaurus.png)
+![datasaurus]([https://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLc/s1600/1datasaurus.png](https://github.com/yonatanlou/yonatanlou/blob/8a919d1602c64cf2dfcd0c82086e5ca66c579953/1datasaurus.png))
 
 
 Hey there! I'm Yonatan, a grad student at Tel Aviv University (TAU), specializing in Statistics and Data Science. 
