@@ -7,7 +7,7 @@
 I am Yonatan, a Tel Aviv University graduate student in Statistics and Data Science. Beyond that, I'm a researcher at <a href="https://www.forter.com/" >Forter</a>.
 		Im currently working on my thesis under the supervision of <a href="https://www.cs.tau.ac.il/~roded/" >Roded Sharan</a> and <a href="https://english.tau.ac.il/profile/028799815/" >Jonathan Ben-Dov</a>, implementing various NLP and GNN methods for identifying the authors of the Dead Sea Scrolls (<a href="https://github.com/yonatanlou/QumranNLP" >QumranNLP</a>).
 
-Here are some project that i did over the years:
+<!-- Here are some project that i did over the years:
 
 1.  **Object oriented programming (Java)** - Some OOP projects in java. 
 
@@ -21,7 +21,7 @@ Projects:
 	- [Forest Cover Type](https://htmlpreview.github.io/?https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/final_lab/Final_lab.html) - Naive bayes (raw implementation), feature engineering, classifiers (XGboost, svm, RandomForest and more). 
 3. **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
 
-[For more projects](https://github.com/yonatanlou/study_projects_bsc)
+[For more projects](https://github.com/yonatanlou/study_projects_bsc) -->
  
 <p align='center' href="https://www.linkedin.com/in/yonatanlourie/">
     <img src="https://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLcB/s1600/1datasaurus.png" 
