@@ -22,26 +22,35 @@ Projects:
 3. **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
 
 [For more projects](https://github.com/yonatanlou/study_projects_bsc) -->
+
+<br /> 
+<br /> 
+<br /> 
+
  
-<p align='center' href="https://www.linkedin.com/in/yonatanlourie/">
-    <img src="https://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLcB/s1600/1datasaurus.png" 
-	 width="300" 
-     height="200"/>
-  </p>
+ 
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/yonatanlourie/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://spoti.fi/3iAMGi3">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-    <a href="https://www.goodreads.com/user/show/103722180-yonatan-lourie">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+<p align="center">
+  <a href="https://www.goodreads.com/user/show/103722180-yonatan-lourie" target="_blank">
+    <img src="https://simpleicons.org/icons/goodreads.svg" alt="Goodreads" width="20" />
+  </a>
+  <a href="https://www.imdb.com/user/ur88119677/ratings/" target="_blank">
+    <img src="https://simpleicons.org/icons/imdb.svg" alt="IMDb" width="20" />
+  </a>
+  <a href="https://open.spotify.com/user/224udkuetwxsiqba7n4tums6q?si=_RD2kBO8QlSUYLfjBLjBEQ&nd=1" target="_blank">
+    <img src="https://simpleicons.org/icons/spotify.svg" alt="Spotify" width="20" />
+  </a>
+  <a href="https://x.com/yonatanlou" target="_blank">
+    <img src="https://simpleicons.org/icons/x.svg" alt="Twitter" width="20" />
+  </a>
+  <a href="https://www.linkedin.com/in/yonatanlourie/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" alt="LinkedIn" width="20" />
+  </a>
+  <a href="https://github.com/yonatanlou" target="_blank">
+    <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="20" />
+  </a>
+  <a href="mailto:yonatanlou@gmail.com" target="_blank">
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" width="20" />
+  </a>
 </p>
-
-
 
